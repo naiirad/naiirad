@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @naiirad
+- 👀 I’m interested in C++ and Python
+- 🌱 I’m currently learning C++ and Python
